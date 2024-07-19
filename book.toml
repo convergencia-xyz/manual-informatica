@@ -1,0 +1,6 @@
+[book]
+authors = ["convergencia.xyz"]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "CONVERGENCIA_TEMPLATE_BOOK"
